@@ -256,7 +256,7 @@ module.exports = [
     {
         "quote": "Put me on your magical boat, man, and sail me down your chocolaty river of meth!",
         "author": "Badger"
-    },  
+    },
     {
         "quote": "Buzz buzz buzz",
         "author": "The fly"
@@ -314,7 +314,7 @@ module.exports = [
         "author": "Mike Ehrmantraut"
     },
     {
-        "quote":"I have spent my whole life scared frightened of things that could happen, might happen, might not happen.",
-        "author":"Walter White"
+        "quote": "I have spent my whole life scared frightened of things that could happen, might happen, might not happen.",
+        "author": "Walter White"
     }
 ];
